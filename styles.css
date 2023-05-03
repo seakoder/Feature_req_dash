@@ -1,0 +1,206 @@
+body {
+
+    box-sizing: border-box;
+    font-family: Nunito;
+    background-color: #F5F5F5;
+}
+
+.left {
+    position:absolute;
+    top: 18%;
+    margin-left: 6%;
+    width: 12%;
+    height: 700px;
+    background: #FFFFFF;
+    display: inline-block
+
+
+}
+
+.left-bottom {
+
+    position: absolute;
+    height: 40%;
+    top: 46.5%;
+    margin-left: 6%;
+    width: 12%;
+    background-color: #F5FAFF;
+
+}
+
+.right {
+    margin-top: 8.15%;
+    width: 75%;
+    margin-left: 18.3%;
+    background-color: #E4EDF4;
+    height: 700px;
+    display: inline-block
+
+    
+}
+
+.left ul {
+
+    margin-top: 0;
+}
+.left li {
+
+    list-style-type: none;
+    color: #068EEE;
+    font-size: 14px;
+    
+}
+
+.left .dots {
+    border: 1px dashed #068EEE;
+    margin-top: 0;
+    margin-left: 3%;
+}
+
+.left-bottom li{
+
+    list-style-type: none;
+    color: #626262;
+    font-size: 12px;
+    padding-bottom: 10px;
+    
+
+}
+
+.left-bottom li span {
+    position: absolute;
+    margin-top: 14px;
+
+}
+
+.left-bottom li svg {
+
+    margin-right: 6px;
+    margin-top: 5px;
+    padding-top: 6px;
+}
+
+
+.first-li {
+    font-size: 13px;
+    margin-left: 5%;
+    margin-top: 16%;
+    position: absolute;
+    font-weight: bold;
+}
+
+.arrow {
+    margin-left: 20%;
+    padding-top: 15%;
+    font-weight: bold;
+
+}
+
+.right-one {
+
+    height: 30%;
+    background: #FFFFFF;
+    border-radius: 13px;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    margin-right:3.5%;
+
+}
+
+.right-two {
+    height: 15%;
+    background: #FFFFFF;
+    border-radius: 13px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right:3.5%;
+
+}
+
+.right-three {
+    height: 25%;
+    background: #FFFFFF;
+    border-radius: 13px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right:3.5%;
+}
+
+.content-2 {
+
+    width: 25%;
+    font-size: 12px;
+    margin-left: 1%;
+    margin-top: 0;
+}
+.content-1 {
+    display: flex;
+    margin-top: -20px;
+
+}
+
+table {
+
+    font-size: 11px;
+    text-align: left;
+    height: 8%;
+    margin-left: 2%;
+
+}
+
+th, td {
+   
+    border-collapse: collapse;
+    padding-right: 10px;
+}
+
+th {
+    color: #626262
+}
+
+.table-icons {
+
+    margin-top: 1.5%;
+    margin-left: .3%;
+
+}
+
+.table-icons3  {
+    margin-left: 74px;
+}
+
+h4 {
+    color: #206493;
+
+}
+
+.right-one h4, .right-two h4, .right-three h4 {
+    margin-left: 1%;
+    padding-top: 1%;
+}
+
+.table-2 {
+    width: 700px;
+    text-align: left;
+    padding-left:0;
+    padding-top: 10px;
+
+}
+
+.table-icons2 {
+
+ margin-top: 12px;
+position: absolute;
+margin-left: 65.7%;
+
+}
+
+.top-right {
+    float: right;
+    display: flex;
+right: 140px;
+top: 150px;
+
+    position: absolute;
+}
